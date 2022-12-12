@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.723d3ba2.css",
-    "main.js": "/static/js/main.6200259b.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/스크린샷 2022-12-12 오전 11.07.41.png": "/static/media/스크린샷 2022-12-12 오전 11.07.41.a73fc9b509944d7067ef.png",
-    "static/media/laptop-notebook-computer-screen-apple-table-914874-pxhere.com.jpg": "/static/media/laptop-notebook-computer-screen-apple-table-914874-pxhere.com.ba9c8e25eae1f28a0426.ba9c8e25eae1f28a0426.jpg",
-    "static/media/pngtree-mobile-application-software-developer-scene-illustration-png-image_3228760.jpg": "/static/media/pngtree-mobile-application-software-developer-scene-illustration-png-image_3228760.cab5ec04358423a575f6.jpg",
-    "static/media/mysql.png": "/static/media/mysql.40403b84770a6ebfdb41.png",
-    "static/media/frontend.png": "/static/media/frontend.0019f41ec01f4b128e9d.0019f41ec01f4b128e9d.png",
-    "static/media/server.png": "/static/media/server.fe04abd9ae6297e3738a.fe04abd9ae6297e3738a.png",
-    "static/media/git.png": "/static/media/git.6bdad36b75cd5f47e1a6.6bdad36b75cd5f47e1a6.png",
-    "static/media/pin.png": "/static/media/pin.64af410c6a5f32b5fd4f.64af410c6a5f32b5fd4f.png",
-    "static/media/user.png": "/static/media/user.33e7df0963941edbeb70.33e7df0963941edbeb70.png",
-    "index.html": "/index.html",
-    "main.723d3ba2.css.map": "/static/css/main.723d3ba2.css.map",
-    "main.6200259b.js.map": "/static/js/main.6200259b.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/portfolio-webSite/static/css/main.723d3ba2.css",
+    "main.js": "/portfolio-webSite/static/js/main.1f39f6b6.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio-webSite/static/js/787.1ed0c42c.chunk.js",
+    "static/media/스크린샷 2022-12-12 오전 11.07.41.png": "/portfolio-webSite/static/media/스크린샷 2022-12-12 오전 11.07.41.a73fc9b509944d7067ef.png",
+    "static/media/laptop-notebook-computer-screen-apple-table-914874-pxhere.com.jpg": "/portfolio-webSite/static/media/laptop-notebook-computer-screen-apple-table-914874-pxhere.com.ba9c8e25eae1f28a0426.ba9c8e25eae1f28a0426.jpg",
+    "static/media/pngtree-mobile-application-software-developer-scene-illustration-png-image_3228760.jpg": "/portfolio-webSite/static/media/pngtree-mobile-application-software-developer-scene-illustration-png-image_3228760.cab5ec04358423a575f6.jpg",
+    "static/media/mysql.png": "/portfolio-webSite/static/media/mysql.40403b84770a6ebfdb41.png",
+    "static/media/frontend.png": "/portfolio-webSite/static/media/frontend.0019f41ec01f4b128e9d.0019f41ec01f4b128e9d.png",
+    "static/media/server.png": "/portfolio-webSite/static/media/server.fe04abd9ae6297e3738a.fe04abd9ae6297e3738a.png",
+    "static/media/git.png": "/portfolio-webSite/static/media/git.6bdad36b75cd5f47e1a6.6bdad36b75cd5f47e1a6.png",
+    "static/media/pin.png": "/portfolio-webSite/static/media/pin.64af410c6a5f32b5fd4f.64af410c6a5f32b5fd4f.png",
+    "static/media/user.png": "/portfolio-webSite/static/media/user.33e7df0963941edbeb70.33e7df0963941edbeb70.png",
+    "index.html": "/portfolio-webSite/index.html",
+    "main.723d3ba2.css.map": "/portfolio-webSite/static/css/main.723d3ba2.css.map",
+    "main.1f39f6b6.js.map": "/portfolio-webSite/static/js/main.1f39f6b6.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio-webSite/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.723d3ba2.css",
-    "static/js/main.6200259b.js"
+    "static/js/main.1f39f6b6.js"
   ]
 }
