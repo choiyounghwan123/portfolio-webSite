@@ -132,7 +132,7 @@ const StyleClickMoveDIv = styled.div`
     user-select: none;
     width: 300px;
     height: 280px;
-
+    margin-top: 10px;
     h3 {
       color: #ec530c;
       font-size: 30px;
